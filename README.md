@@ -1,8 +1,8 @@
 
 # 🌐About
-# Chuyên ngành Hệ thống thông tin quản lý- Đại học Kinh tế Luật(ĐHQG TPHCM)
+# Chuyên ngành Hệ thống thông tin quản lý- Đại học Kinh tế Luật (ĐHQG TPHCM)
 Niềm đam mê trực quan hóa dữ liệu, kể câu chuyện thông qua dữ liệu.
-Hướng tới giá trị cốt lõi là hiểu chất của dữ liệu đang nói lên điều gì và trả lời các yêu cầu, vấn đề đang gặp phải. Có thể mang một quyết định phù hợp hơn.
+Hướng tới giá trị cốt lõi là hiểu chất của dữ liệu đang nói lên điều gì và trả lời các yêu cầu, vấn đề đang gặp phải, có thể mang một quyết định phù hợp hơn.
 
 Mỗi dữ liệu đều có một câu chuyện. Hãy học cách đưa ra quyết định dựa trên dữ liệu. Dữ liệu lớn hay nhỏ không quan trọng, quan trọng là dữ liệu đúng!
 
