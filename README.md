@@ -8,16 +8,17 @@ Mỗi dữ liệu đều có một câu chuyện. Hãy học cách đưa ra quy�
 ### ✍️Random Dev Quote
 
 # 💻Tech Stack
-![Power BI](https://img.shields.io/badge/powerbi-CC2927?style=for-the-badge&logo=powerbir&logoColor=yellow0
+POWER BI
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 # 📊GitHub Stats :
+username=minhhieu247&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=minhhieu247&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=minhhieu247&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=minhhieu247&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
