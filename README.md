@@ -5,7 +5,6 @@ Niềm đam mê trực quan hóa dữ liệu, kể câu chuyện thông qua dữ
 Hướng tới giá trị cốt lõi là hiểu chất của dữ liệu đang nói lên điều gì và trả lời các yêu cầu, vấn đề đang gặp phải. Có thể mang một quyết định phù hợp hơn.
 
 Mỗi dữ liệu đều có một câu chuyện. Hãy học cách đưa ra quyết định dựa trên dữ liệu. Dữ liệu lớn hay nhỏ không quan trọng, quan trọng là dữ liệu đúng!
-### ✍️Random Dev Quote
 
 # 💻Tech Stack
 POWER BI
@@ -13,6 +12,8 @@ POWER BI
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### ✍️Full Project
 
 # 📊My Visualization
 
