@@ -1,6 +1,7 @@
 
-## 🌐Socials
-[![LinkedIn]https://www.linkedin.com/in/hi%E1%BA%BFu-h%E1%BB%93-minh-34529623b/]
+## 🌐About
+adadadasdasdasdasdasdasdasdasdasdas
+
 
 
 # 💻Tech Stack
