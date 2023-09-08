@@ -1,16 +1,10 @@
 
-# 🌐About
-# Dạy TENNIS tại TP HCM - SDT/Zalo: 0344932162
+# 🌐  Minh Hiếu 🎾 
+# Dạy TENNIS tại TP HCM - SDT/Zalo: 0344932162  🎾
 # Chuyên ngành Hệ thống thông tin quản lý- Đại học Kinh tế Luật (ĐHQG TPHCM)
-# Tennis for life
-
-# 💻Tech Stack
-POWER BI
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
+# Tennis for life 🎾
+# 📊My Visualization
+![alt](https://www.google.com/search?sca_esv=563600755&q=%E1%BA%A3nh+%C4%91%E1%BA%B9p&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi_5bym_JmBAxWA4zgGHdaOBW8Q0pQJegQICxAB&biw=1280&bih=571&dpr=1.5#imgrc=biCp8D9qs7hKAM)
 ### ✍️Full Project
 
 # 📊My Visualization
